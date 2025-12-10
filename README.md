@@ -1,4 +1,4 @@
-# Multi-Asset Allocation Project 
+# Multi-Asset Portfolio Optimizer
 
 # (Undergoing large-scale maintenance!!!)
 
