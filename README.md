@@ -1,4 +1,4 @@
-# Multi-Asset Allocation Project 
+# Multi-Asset Portfolio Optimizer
 
 # (Undergoing large-scale maintenance!!!)
 
@@ -65,36 +65,3 @@
 - Black-Litterman model for incorporating market views
 - Transaction cost modeling
 - More asset datasets...
-
----
-
-## Folder Structure
-
-```plaintext
-/
-├── data/
-│   ├── multiasset_benchmark.csv             
-│   ├── multiasset_closing_prices.csv            
-│   ├── multiasset_cum_returns.csv
-|   ├── multiasset_daily_returns.csv
-|   ├── multiasset_ewc.csv
-|   ├── multiasset_stats.csv
-|   ├── README.md                       
-├── notebooks/
-│   ├── Backtesting/      
-│   ├── DataAcquisition_and_Preprocessing/            
-│   ├── Extensions_Dashboard/
-│   ├── Final_Model/
-|   ├── Portfolio_Optimization/
-|   ├── README.md     
-├── plots/
-│   ├── Closing_Prices/               
-│   ├── Cumulative_Returns/ 
-│   ├── Daily_Return_Distributions/       
-│   ├── Efficient_Frontier/                     
-│   ├── Optimal_Weights/               
-│   ├── Returns_Correlation_Heatmap/
-|   ├── README.md           
-├── reports/
-|   ├── README.md            
-└── README.md
